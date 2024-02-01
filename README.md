@@ -2,16 +2,21 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository provides a template for building decentralized applications (dApps) on the Solana ecosystem using the Next.js framework. It aims to streamline the development process by including essential packages commonly used in Solana dApp development. Also includes the basic wallet setup and a few extra components for convenient handling of NFTs.
+This repository provides a starting point for our dApps on SOLANA using the Next.js framework. Already includes the wallet setup and a few extra components for convenient handling of NFTs.
 
 ## TODO
 - [ ] **NFT Gallery:** showcase NFTs owned by user.
 - [ ] **Improve default theme/add dark theme**
+- https://github.com/mentalabsio/solana-web-app/blob/main/components/NFTList/CollectionItem.tsx
+- Integrate Jupiter Swap (https://github.com/ZhengYuTay/jupiter-nextjs-example/blob/main/package.json)
+- Integrate Token Creator (https://github.com/jacobcreech/Token-Creator)
 
 ## Components
 
 - Header w/ MobileMenu and wallet connection button.
 - NFT Select.
+- Jupiter Swap (TODO)
+- Token Creator (TODO)
 
 ## Packages included
 

@@ -4,7 +4,7 @@ import { Nft } from "@metaplex-foundation/js";
 import { useWallet } from "@solana/wallet-adapter-react";
 import dynamic from "next/dynamic";
 import { useState } from "react";
-import Image from 'next/image';
+// import Image from 'next/image';
 
 // Dynamically import components
 const NftSelect = dynamic(() => import("./components/NftSelect"), {
