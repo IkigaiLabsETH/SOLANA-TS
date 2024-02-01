@@ -10,6 +10,8 @@ This repository provides a starting point for our dApps on SOLANA using the Next
 - https://github.com/mentalabsio/solana-web-app/blob/main/components/NFTList/CollectionItem.tsx
 - Integrate Jupiter Swap (https://github.com/ZhengYuTay/jupiter-nextjs-example/blob/main/package.json)
 - Integrate Token Creator (https://github.com/jacobcreech/Token-Creator)
+- Create Compressed NFTs (https://github.com/IkigaiLabsETH/compressed-nfts)
+- Create Airdrop Page 
 
 ## Components
 
