@@ -1,0 +1,3 @@
+Token extensions on Solana are the next generation of the Solana Program Library standard. The original Token program brought the basic capabilities of transfer, freeze, and minting tokens. Comprising more than a dozen extensions, developers can now unlock advanced token functionality with remarkable efficiency, requiring only a fraction of the engineering time.
+
+https://solana.com/news/token-extensions-developer-guide
