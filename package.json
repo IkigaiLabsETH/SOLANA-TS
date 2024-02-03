@@ -40,7 +40,13 @@
     "react-dom": "18.2.0",
     "react-toastify": "^9.1.3",
     "tailwindcss": "3.4.1",
-    "typescript": "5.3.3"
+    "typescript": "5.3.3",
+    "@bonfida/spl-name-service": "^2.0.0-alpha.25",
+    "@vercel/analytics": "^1.1.1",
+    "@vercel/speed-insights": "^1.0.8",
+    "clsx": "^2.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "tailwind-merge": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^8.35.0",
@@ -48,6 +54,16 @@
     "prettier-plugin-organize-imports": "^3.2.2",
     "prettier-plugin-tailwindcss": "^0.3.0",
     "ts-node": "^10.9.1",
-    "tsconfig-paths": "^4.1.2"
+    "tsconfig-paths": "^4.1.2",
+    "@tailwindcss/forms": "^0.5.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "daisyui": "^4.4.4",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
   }
 }
