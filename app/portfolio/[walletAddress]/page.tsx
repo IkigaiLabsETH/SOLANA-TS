@@ -8,8 +8,8 @@ import {
   TokenMetrics,
   NFTMetrics,
   Navigation,
-} from "@/app/components/";
-import { FungibleToken, NonFungibleToken } from "@/app/types";
+} from "@/components/";
+import { FungibleToken, NonFungibleToken } from "@/types";
 
 interface PortfolioPageProps {
   searchParams: { view: string; details: string; tokenDetails: string };

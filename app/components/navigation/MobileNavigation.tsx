@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Transition, Dialog } from "@headlessui/react";
 import { XMarkIcon } from "@heroicons/react/24/outline";
 
-import { Logo } from "@/app/components";
+import { Logo } from "@/components";
 import { classNames } from "@/app/utils";
 
 interface MobileNavigationProps {

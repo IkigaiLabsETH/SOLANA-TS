@@ -6,6 +6,7 @@ import dynamic from "next/dynamic";
 import { useState } from "react";
 // import Image from 'next/image';
 
+
 // Dynamically import components
 const NftSelect = dynamic(() => import("./components/NftSelect"), {
   ssr: false,
@@ -19,6 +20,7 @@ export default function Home() {
 
   return (
     <div className="m-auto flex w-full flex-col items-center space-y-10 py-10 xl:w-1/2">
+      
       {/*<div className="flex w-full rounded-md bg-gray-800 px-4 py-2 text-lg text-sky-100">
         <input
           type="text"

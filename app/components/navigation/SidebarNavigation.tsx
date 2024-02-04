@@ -1,5 +1,5 @@
-import { Logo } from "@/app/components";
-import { classNames } from "@/app/utils";
+import { Logo } from "@/components";
+import { classNames } from "@/utils";
 
 interface SidebarNavigationProps {
     navigation: {

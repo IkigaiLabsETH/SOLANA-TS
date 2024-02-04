@@ -1,6 +1,6 @@
 import { Bars3Icon } from "@heroicons/react/24/outline";
 
-import { WalletInput } from "@/app/components";
+import { WalletInput } from "@/components";
 
 interface HeaderNavigationProps {
   setSidebarOpen: (open: boolean) => void;
